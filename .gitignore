@@ -1,0 +1,12 @@
+/vendor/
+
+# Cache directory for phpunit, phpcs, phpstan
+/cache/
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
